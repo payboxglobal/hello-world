@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "52fe1864-d1fb-4c3d-a59c-d408d5bffe06"
+      }
+    },
+    "owner": "paybox"
   }
 }
